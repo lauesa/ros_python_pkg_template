@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<package>
+<package format="2">
   <name>{{cookiecutter.project_slug}}</name>
   <version>{{cookiecutter.version}}</version>
   <description>{{cookiecutter.project_short_description}}</description>
